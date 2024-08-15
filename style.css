@@ -1,16 +1,18 @@
 body {
-  background-color: #ffe4c4;
+  font-family: "Open Sans", sans-serif;
 }
 
-button {
-  background-color: #d9c4ff;
-  border: 2px solid;
-  color: hsl(0, 0%, 55%);
-  padding: 2em;
-  font-size: 1em;
+h1 {
+  font-size: 6em;
+  text-align: center;
+}
+nav {
+  font-size: 1.5em;
 }
 
-button:hover {
-  border-color: aqua;
-  border: 4px solid;
+ul,
+li {
+  display: inline;
+  margin: 0;
+  padding: 0;
 }
