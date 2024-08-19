@@ -223,7 +223,7 @@ body {
   color: white;
 }
 
-@media (min-width: 900px) {
+/* @media (min-width: 900px) {
   .panel {
     flex-direction: row;
   }
@@ -235,4 +235,4 @@ body {
   .pricing-plan:last-child {
     border-right: none;
   }
-}
+} */
